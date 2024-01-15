@@ -30,8 +30,6 @@ This simpel example aboute using scout package for search with model
 ## Screenshots
 ![Example screenshot](./screen-shots/one.png)
 
-![Example screenshot](./screen-shots/three.png)
-
 ![Example screenshot](./screen-shots/two.png)
 
 
